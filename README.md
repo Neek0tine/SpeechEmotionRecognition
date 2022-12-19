@@ -36,15 +36,18 @@ Ditentukan beberapa tahapan yang akan dilakukan dalam melakukan data mining dan 
 
 ## Dataset
 Dataset yang digunakan dalam analisis penelitian ini dapat diakses pada link berikut: https://tinyurl.com/DatasetAudio-KelompokC. Data tersebut merupakan hasil scrapping video di YouTube yang merepresentasikan 4 ekspresi manusia, yakni marah, sedih, senang, dan netral. Label angry terdiri dari 1.302 data, label happy terdiri dari 427 data, label neutral terdiri dari 624 data, dan label sad terdiri dari 897 data.
+<br>
 
-
+<hr>
+<a href="https://www.canva.com/design/DAFUZCvouZE/P3slOanTZ-N8r2FNQcYF6w/view?utm_content=DAFUZCvouZE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><h2>Learn More Here</h2></a>
+<hr>
 
 ## Authors
 **Supervisor : Ratih Ardiati Ningrum, M.S., M.Stat.**<br>
-* **Hafiyyah  k. S.** [RezaErfit](https://www.instagram.com/reza_erfit/)
-* **Aretha levi** [austhopia](https://github.com/fathur-rs)
-* **Nicholas Juan Kalvin**  [Neek0tine](https://github.com/Neek0tine)
-* **rofa arfaqo** [NaliaGK](https://github.com/NaliaGK)
+* **Hafiyyah  k. S.**
+* **Aretha levi** 
+* **Nicholas Juan K.**  
+* **rofa arfaqo**
 
 <!-- ## Contributors
 * **Vincent A.** [Tonald Drump](https://www.instagram.com/bababooey_sfx_2/)
