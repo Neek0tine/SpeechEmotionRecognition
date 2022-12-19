@@ -1,5 +1,5 @@
 
-<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="TweeToxicity" width="1500"/></a><br><br>
+<a href="https://www.canva.com/design/DAFUZCvouZE/P3slOanTZ-N8r2FNQcYF6w/view?utm_content=DAFUZCvouZE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="SER" width="1500"/></a><br><br>
 
 <a href="https://github.com/Neek0tine/SpeechEmotionRecognition/issues"><img src="https://img.shields.io/github/issues/Neek0tine/SpeechEmotionRecognition"></a>
 <a href="https://github.com/Neek0tine/Tweetoxicity/blob/main/LICENSE" ><img src="https://img.shields.io/github/license/Neek0tine/SpeechEmotionRecognition"></a>
@@ -7,7 +7,7 @@
 
 
 
-# Speech Emotion Recognition
+# Speech Emotion Recognition (SER)
 
 <h2> Intro</h2>
 <b>Speech Emotion Recognition</b> adalah sebuah sistem dimana perasaan atau emosi seseorang dapat diklasifikasikan dari gaya berbicaranya. Berdasarkan teori speech emotion analysis oleh Patrik dan Klaus (2008), emosi seseorang dapat dirasakan secara nonverbal dari perubahan ritme respirasi, tensi otot yang menggetarkan suara dan mengganti karakteristik akustik, dan lain-lain. Diferensiasi dari emosi tersebut terbukti susah untuk ditentukan, karena sifat natural suara yang kompleks. Contohnya, susah dibedakan emosi spontan dan emosi yang lama terbuat, atau emosi dingin ataupun emosi yang panas.<br><br>
@@ -32,9 +32,27 @@ Ditentukan beberapa tahapan yang akan dilakukan dalam melakukan data mining dan 
 </ol>
 
 
-<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png" alt="TweeToxicity" width="715"/></a><br><br>
+<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png" alt="Metodologi" width="715"/></a><br><br>
 
 ## Dataset
 Dataset yang digunakan dalam analisis penelitian ini dapat diakses pada link berikut: https://tinyurl.com/DatasetAudio-KelompokC. Data tersebut merupakan hasil scrapping video di YouTube yang merepresentasikan 4 ekspresi manusia, yakni marah, sedih, senang, dan netral. Label angry terdiri dari 1.302 data, label happy terdiri dari 427 data, label neutral terdiri dari 624 data, dan label sad terdiri dari 897 data.
 
 
+
+## Authors
+**Supervisor : Ratih Ardiati Ningrum, M.S., M.Stat.**<br>
+* **Hafiyyah  k. S.** [RezaErfit](https://www.instagram.com/reza_erfit/)
+* **Aretha levi** [austhopia](https://github.com/fathur-rs)
+* **Nicholas Juan Kalvin**  [Neek0tine](https://github.com/Neek0tine)
+* **rofa arfaqo** [NaliaGK](https://github.com/NaliaGK)
+
+<!-- ## Contributors
+* **Vincent A.** [Tonald Drump](https://www.instagram.com/bababooey_sfx_2/)
+* **Dhaval C. K.** [PIRATE](https://www.instagram.com/dhavalck/) -->
+
+## Contributing
+
+Pull requests are welcome. For major changes, how-to, and in-depth explanation, please contact one of the authors.
+## License
+<br>
+This project is licensed under GNU General Public License v3.0 - see the [LICENSE](https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/LICENSE) file for details.
