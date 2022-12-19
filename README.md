@@ -1,5 +1,5 @@
 
-<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="TweeToxicity" width="800"/></a><br><br>
+<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="TweeToxicity" width="1500"/></a><br><br>
 
 <a href="https://github.com/Neek0tine/SpeechEmotionRecognition/issues"><img src="https://img.shields.io/github/issues/Neek0tine/SpeechEmotionRecognition"></a>
 <a href="https://github.com/Neek0tine/Tweetoxicity/blob/main/LICENSE" ><img src="https://img.shields.io/github/license/Neek0tine/SpeechEmotionRecognition"></a>
@@ -32,7 +32,7 @@ Ditentukan beberapa tahapan yang akan dilakukan dalam melakukan data mining dan 
 </ol>
 
 
-<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="TweeToxicity" width="715"/></a><br><br>
+<a href="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/methods.png" alt="TweeToxicity" width="715"/></a><br><br>
 
 ## Dataset
 Dataset yang digunakan dalam analisis penelitian ini dapat diakses pada link berikut: https://tinyurl.com/DatasetAudio-KelompokC. Data tersebut merupakan hasil scrapping video di YouTube yang merepresentasikan 4 ekspresi manusia, yakni marah, sedih, senang, dan netral. Label angry terdiri dari 1.302 data, label happy terdiri dari 427 data, label neutral terdiri dari 624 data, dan label sad terdiri dari 897 data.
