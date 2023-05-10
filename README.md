@@ -1,5 +1,5 @@
 
-<a href="https://www.canva.com/design/DAFUZCvouZE/P3slOanTZ-N8r2FNQcYF6w/view?utm_content=DAFUZCvouZE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/output.gif" alt="SER" width="1500"/></a><br><br>
+<a href="https://www.canva.com/design/DAFUZCvouZE/P3slOanTZ-N8r2FNQcYF6w/view?utm_content=DAFUZCvouZE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://github.com/Neek0tine/SpeechEmotionRecognition/blob/main/ser.gif" alt="SER" width="1500"/></a><br><br>
 
 <a href="https://github.com/Neek0tine/SpeechEmotionRecognition/issues"><img src="https://img.shields.io/github/issues/Neek0tine/SpeechEmotionRecognition"></a>
 <a href="https://github.com/Neek0tine/Tweetoxicity/blob/main/LICENSE" ><img src="https://img.shields.io/github/license/Neek0tine/SpeechEmotionRecognition"></a>
